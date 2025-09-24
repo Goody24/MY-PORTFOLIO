@@ -81,7 +81,7 @@ Here are some of my recent projects:
 ---
 
 ## 📊 GitHub Stats
-![Goodluck's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goody24&show_icons=true&theme=blueberry)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Goody24&layout=compact&theme=blueberry)
 
 ---
